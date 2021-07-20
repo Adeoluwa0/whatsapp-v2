@@ -1,6 +1,6 @@
 
 import { Circle} from "better-react-spinkit";
-import {Image} from 'next/image'
+import Image from 'next/image'
 
 function Loading() {
     return (
